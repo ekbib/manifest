@@ -20,7 +20,7 @@
         {
           "rel": "self",
           "href": "https://github.com/ekbib/manifest/blob/main/manifest.json",
-          "type": "application/audiobook+json”
+          "type": "application/audiobook+json"
         }
     ],
     "readingOrder":
