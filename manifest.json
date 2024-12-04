@@ -1,0 +1,53 @@
+{
+    "@context": "http://readium.org/webpub-manifest/context.jsonld",
+    "metadata":
+    {
+        "@type": "http://schema.org/Audiobook",
+        "conformsTo": "https://readium.org/webpub-manifest/profiles/audiobook",
+        "identifier": "urn:oclc:record:1377776103",
+        "title": "Moby-Dick, or the Whale",
+        "author": "Herman Melville",
+        "narrator":
+        [
+            "Stewart Wills"
+        ],
+        "language": "en",
+        "publisher": "Whale Publishing Ltd.",
+        "published": "2007-03-06",
+        "duration": 5092
+    },
+    "readingOrder":
+    [
+        {
+            "href": "https://archive.org/details/moby_dick_librivox/mobydick_000_melville.mp3",
+            "type": "audio/mpeg",
+            "bitrate": 128,
+            "duration": 1753,
+            "title": "Chapter 000: Etymology and Extracts"
+        },
+        {
+            "href": "https://archive.org/details/moby_dick_librivox/mobydick_001_002_melville.mp3",
+            "type": "audio/mpeg",
+            "bitrate": 128,
+            "duration": 1246,
+            "title": "Chapter 001-002"
+        },
+        {
+            "href": "https://archive.org/details/moby_dick_librivox/mobydick_003_melville.mp3",
+            "type": "audio/mpeg",
+            "bitrate": 128,
+            "duration": 2093,
+            "title": "Chapter 003"
+        }
+    ],
+    "resources":
+    [
+        {
+            "rel": "cover",
+            "href": "https://ia801609.us.archive.org/19/items/moby_dick_librivox/Moby_Dick_1002.jpg?cnt=0",
+            "type": "image/jpeg",
+            "height": 300,
+            "width": 300
+        }
+    ]
+}
