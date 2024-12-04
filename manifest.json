@@ -16,6 +16,11 @@
         "published": "2007-03-06",
         "duration": 5092
     },
+    {
+      "rel": "self",
+      "href": "https://github.com/ekbib/manifest/blob/main/manifest.json",
+      "type": "application/audiobook+json”
+    },
     "readingOrder":
     [
         {
