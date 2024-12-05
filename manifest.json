@@ -21,6 +21,11 @@
           "rel": "self",
           "href": "https://github.com/ekbib/manifest/blob/main/manifest.json",
           "type": "application/audiobook+zip"
+        },
+        {
+          "rel": "cover",
+          "href": "https://archive.org/download/moby_dick_librivox/Moby_Dick_1002.jpg",
+          "type": "image/jpeg"
         }
     ],
     "readingOrder":
@@ -51,7 +56,7 @@
     [
         {
             "rel": "cover",
-            "href": "https://ia801609.us.archive.org/19/items/moby_dick_librivox/Moby_Dick_1002.jpg?cnt=0",
+            "href": "https://archive.org/download/moby_dick_librivox/Moby_Dick_1002.jpg",
             "type": "image/jpeg",
             "height": 300,
             "width": 300
